@@ -77,6 +77,4 @@ pip install pennylane kagglehub jax
 
 Run on CPU or Colab/Kaggle. Each 50-epoch run takes about 4–5 s/epoch on CPU for PI-QGAT.
 
-## Author
 
-**Bijoy** ([@Bijoy2406](https://github.com/Bijoy2406)) · North South University, Dhaka
